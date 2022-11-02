@@ -1,0 +1,1 @@
+Business card defined in "index.html" with connection with stylesheet in "styles.css" and image in "Images" folder
